@@ -1,3 +1,26 @@
 body {
-    background-color: aquamarine;
+    background-color: snow;
+}
+
+a {
+    color: black;
+}
+a:hover {
+    size: 20px;
+}
+
+
+.navbar {
+    background-color: #ffffff;
+    
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+    max-width: 1000px;
+    margin: 0, auto;
+    height: 50px;
+    text-transform: uppercase;
 }
